@@ -1,4 +1,4 @@
-# 
+# VIP JetBrains Rider modelos para Mac OS | Turbo JetBrains Rider modelos para PC Windows. Com gerenciamento de contêineres e backup e restauração — otimizado para máximo desempenho em cada plataforma.
 
 
 
